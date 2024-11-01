@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ruleset name="BeycanPressStandards">
+    <rule ref="../tools/phpcs.xml"/>
+</ruleset>
